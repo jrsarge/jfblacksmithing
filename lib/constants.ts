@@ -31,11 +31,10 @@ export const NAVIGATION_ITEMS = [
 ];
 
 export const PRODUCT_CATEGORIES = [
-  'knives',
-  'hatchets',
   'strikers',
-  'keychains',
+  'char-cloth',
   'steel-knots',
+  'keychains',
   'custom',
 ] as const;
 
